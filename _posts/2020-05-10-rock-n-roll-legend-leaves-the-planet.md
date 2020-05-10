@@ -10,10 +10,6 @@ featured: true
 
 Born in New York city on 5th December, 1932, and one of the founding father of Rock’n Roll , Richard Wayne Penniman also popularly known as ‘Little Richard’ , has died. His death was confirmed to Rolling Stone by his son Danny Jones-Penniman. The was the lead singer of the band ‘Little Richard and the Missing Persons’ . He died at the age of 87 for reasons unknown.
 
-![](/uploads/little-richard-1.jpg){: width="981" height="515"}
-
-&nbsp;
-
 With over 30 million records worldwide, Little Richard was an overwhelming source of inspiration and influence for musicians. Born in Macon,Georgia in 1932, and second of twelve sibling, he began his career as a teenager in the late 1940s, but his breakthrough came when he signed to Specialty Records in 1955.
 
 > "There was really no jazz or blues at school, and I was in class all the time, but there was really jazz and blues at school.” - Little Richard in 1992
