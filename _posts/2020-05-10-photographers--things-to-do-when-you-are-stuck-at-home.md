@@ -2,8 +2,9 @@
 layout: post-right-sidebar
 title: 'Photographers : Things to do when you are stuck at home'
 author:
-categories:[Things to do]
-image: uploads/photgraphy.jpg
+categories:
+    -Things to do
+image: uploads/photgraphy.png
 featured: true
 ---
 
