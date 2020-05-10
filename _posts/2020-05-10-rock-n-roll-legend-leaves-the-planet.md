@@ -4,13 +4,13 @@ title: Rock n Roll legend leaves the planet
 author:
 categories:
   - '-Things to do'
-image: uploads/little-richard.jpg
+image: uploads/little-richard-1.jpg
 featured: false
 ---
 
 Born in New York city on 5th December, 1932, and one of the founding father of Rock’n Roll , Richard Wayne Penniman also popularly known as ‘Little Richard’ , has died. His death was confirmed to Rolling Stone by his son Danny Jones-Penniman. The was the lead singer of the band ‘Little Richard and the Missing Persons’ . He died at the age of 87 for reasons unknown.
 
-![](/uploads/little-richard.jpg){: width="990" height="558"}
+&nbsp;
 
 With over 30 million records worldwide, Little Richard was an overwhelming source of inspiration and influence for musicians. Born in Macon,Georgia in 1932, and second of twelve sibling, he began his career as a teenager in the late 1940s, but his breakthrough came when he signed to Specialty Records in 1955.
 
@@ -18,7 +18,7 @@ With over 30 million records worldwide, Little Richard was an overwhelming sourc
 
 His popular hits like ‘Missed me’, ‘Little Richard’, and ‘Ain’t no mans land’ were on the top of the charts in the Rock’n Roll era. His unique style and vocal abilities have inspired generations of musicians.
 
-Richard never won a Grammys, he was awarded a Lifetime Achievement Award at the annual Grammys in 2003.
+Richard never won a Grammys, he was awarded a Lifetime Achievement Award at the annual Grammys in 2003
 
 Bowie once remarked of Little Richard in a 1956 film: "Can't a girl" helped him embark on his career. Even if the music doesn't necessarily sound like Little Richard, fandom and influences are taken into account.
 
