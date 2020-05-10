@@ -4,8 +4,8 @@ title: Rock n Roll legend leaves the planet
 author:
 categories:
   - '-Things to do'
-image:
-featured: true
+image: /uploads/little-richard.jpg
+featured: false
 ---
 
 Born in New York city on 5th December, 1932, and one of the founding father of Rock’n Roll , Richard Wayne Penniman also popularly known as ‘Little Richard’ , has died. His death was confirmed to Rolling Stone by his son Danny Jones-Penniman. The was the lead singer of the band ‘Little Richard and the Missing Persons’ . He died at the age of 87 for reasons unknown.
