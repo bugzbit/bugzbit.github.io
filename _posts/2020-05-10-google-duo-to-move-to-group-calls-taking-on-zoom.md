@@ -6,7 +6,7 @@ categories:
   - '-Things'
   - to
   - do
-image: /uploads/goole-duo.jpeg
+image: uploads/goole-duo.jpeg
 featured: true
 ---
 
