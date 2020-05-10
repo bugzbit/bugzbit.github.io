@@ -4,7 +4,8 @@ title: 'Photographers : Things to do when you are stuck at home'
 author:
 categories:
   - Things to do
-image: uploads/photgraphy.png
+image: uploads/photgraphy.
+featured: true
 ---
 
 Most of us are stuck at home with little or no income. Best part of this we can do thing we normally wouldn’t do or don’t have time for. We can’t even go out anymore to take pictures in nature. In these times we are kind of forced to do some work from behind our desk. I’ll be sharing a list of ‘things to do’ for all photographers while you’re stuck at home.
