@@ -6,6 +6,7 @@ categories:
   - Jekyll
   - tutorial
 image: uploads/expensive-watch.png
+featured: true
 ---
 
 From Dead Sharks to Golden Cars, here are some of the most expensive stuff ever
