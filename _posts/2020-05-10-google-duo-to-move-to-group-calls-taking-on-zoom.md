@@ -23,3 +23,5 @@ Google has also introduced a new family mode where the mute and end call buttons
 The new layout promises to cover more people at the same time. Along with this google will be using the AV1 video Codec on the app to provide and enhanced video quality.
 
 Check out the preview on the app in this youtube video.
+
+{% include youtube_embed.html id="58JcHKgAm5o" %} 
