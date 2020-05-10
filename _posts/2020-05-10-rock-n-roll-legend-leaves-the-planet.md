@@ -4,7 +4,7 @@ title: Rock n Roll legend leaves the planet
 author:
 categories:
   - '-Things to do'
-image: uploads/little-richard-1.jpg
+image: /uploads/little-richard.jpg
 featured: false
 ---
 
