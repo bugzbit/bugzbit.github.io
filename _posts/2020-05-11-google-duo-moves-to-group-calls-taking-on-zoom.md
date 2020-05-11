@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Duo move to group calls taking on Zoom
+title: Google Duo moves to group calls taking on Zoom
 author:
 categories:
   - '-Things'
