@@ -6,7 +6,7 @@ meta_description: "A bit of everything "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl:''
 email: 'nvmprosol@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
