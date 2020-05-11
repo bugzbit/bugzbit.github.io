@@ -8,7 +8,7 @@ categories:
   - '-Things'
   - to
   - do
-image: /uploads/covid 19.jpg
+image: uploads/covid 19.jpg
 featured: false
 ---
 
