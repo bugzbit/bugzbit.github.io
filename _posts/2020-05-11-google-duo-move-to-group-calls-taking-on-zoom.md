@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Duo to move to group calls taking on Zoom
+title: Google Duo move to group calls taking on Zoom
 author:
 categories:
   - '-Things'
@@ -24,4 +24,4 @@ The new layout promises to cover more people at the same time. Along with this g
 
 Check out the preview on the app in this youtube video.
 
-{% include youtube_embed.html id="58JcHKgAm5o" %} 
+{% include youtube_embed.html id="58JcHKgAm5o" %}
