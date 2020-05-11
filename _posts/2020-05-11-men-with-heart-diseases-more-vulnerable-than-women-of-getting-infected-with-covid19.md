@@ -12,17 +12,9 @@ image: uploads/covid 19.jpg
 featured: false
 ---
 
-&nbsp;
-
-Picture credit: [Home vector created by pikisuperstar - www.freepik.com](https://www.freepik.com/free-photos-vectors/Home){: target="_blank"}
-
-&nbsp;
-
-&nbsp;
+Credit: [Home vector created by pikisuperstar - www.freepik.com](https://www.freepik.com/free-photos-vectors/Home){: target="_blank"}
 
 Research shows that men with heart problems have higher concentration of ACE2 , compared to women, which allows COVID-19 virus to easily infect healthy cells.
-
-&nbsp;
 
 ACE2(angiotensin-converting enzyme 2) is a type of protein present in the blood plasma. ACE2 is the receptor on the surface of cells. The concentration of ACE2 are higher in the lungs hence a major cause of lung disorders when infected with COVID-19
 
