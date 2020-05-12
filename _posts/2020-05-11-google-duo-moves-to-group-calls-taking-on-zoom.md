@@ -3,9 +3,7 @@ layout: post
 title: Google Duo moves to group calls taking on Zoom
 author:
 categories:
-  - '-Things'
-  - to
-  - do
+  - Technology
 image: uploads/goole-duo.jpeg
 featured: true
 ---
