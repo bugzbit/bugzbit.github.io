@@ -24,7 +24,7 @@ permalink: "/categories.html"
 
         <div class="masonrygrid row listrecent">
 
-            {% for post in site.category %}
+            {% for post in site.category[page.tag] %}
 
                 {% include postbox.html %}
 
