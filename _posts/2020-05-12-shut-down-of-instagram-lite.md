@@ -3,9 +3,7 @@ layout: post
 title: Shut down of Instagram Lite
 author:
 categories:
-  - '-Things'
-  - to
-  - do
+  - Technology
 image: uploads/instagram lite.jpg
 featured: false
 ---
