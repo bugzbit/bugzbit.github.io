@@ -3,7 +3,7 @@ layout: post-right-sidebar
 title: Rock n Roll legend leaves the planet
 author:
 categories:
-  - '-Things to do'
+  - News
 image: uploads/little-richard.jpg
 featured: true
 ---
