@@ -4,7 +4,7 @@ layout: default
 permalink: "/categories.html"
 ---
 
-
+{% if paginator.previous_page %}
 {% if paginator.previous_page > 0 %}
 <div id="jumptopageof"></div>
 {% endif %}
