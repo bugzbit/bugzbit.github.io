@@ -6,8 +6,8 @@ categories:
   - '-Things'
   - to
   - do
-image: /uploads/instagram lite.jpg
-featured: true
+image: uploads/instagram lite.jpg
+featured: false
 ---
 
 Instagram lite, the slimmed down version of the popular photo & video app, Instagram, has been shut down by Facebook. Many social media companies have a lite version for the developing markets like Asia and Africa, which is basically just the web-view of their popular app,&nbsp; gets more users from low-end hardware markets and low data speed.
