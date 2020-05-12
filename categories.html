@@ -3,12 +3,12 @@ title: "Categories"
 layout: default
 permalink: "/categories.html"
 ---
-<!--
+
 {% if paginator.previous_page %}
 {% if paginator.previous_page > 0 %}
 <div id="jumptopageof"></div>
 {% endif %}
-{% endif %}    -->
+{% endif %}
 
 <section class="recent-posts row">
 
@@ -26,9 +26,7 @@ permalink: "/categories.html"
 
             {% for post in paginator.posts %}
 
-            {% unless post.featured == true %}
-
-                {% include postbox.html %}
+            {% include postbox.html %}
 
             {% endunless %}
 
