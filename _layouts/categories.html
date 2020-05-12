@@ -5,7 +5,11 @@ permalink: "/categories.html"
 ---
 <section class="recent-posts row">
 
+<div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
 
+    <div class="col-sm-8">
 <div class="masonrygrid row listrecent">
 {% for category in site.categories %}
 <div class="section-title col-md-12 mt-4">
@@ -23,5 +27,5 @@ permalink: "/categories.html"
 {% assign group = nil %}
 {% endfor %}
 </div>
-
+</div>
 </section>
