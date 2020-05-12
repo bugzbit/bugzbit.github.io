@@ -16,6 +16,6 @@ The fully functional has to downloaded to function as it appears in the screen o
 
 &nbsp;
 
-“We are rolling back the test of the Instagram Lite app,” a spokesperson for Instagram’s parent company Facebook told [*TechCrunch.*](https://techcrunch.com/2020/05/11/instagram-lite-shuts-down-in-advance-of-a-relaunch/){: target="_blank"}
+> “We are rolling back the test of the Instagram Lite app,” a spokesperson for Instagram’s parent company Facebook told [*TechCrunch.*](https://techcrunch.com/2020/05/11/instagram-lite-shuts-down-in-advance-of-a-relaunch/){: target="_blank"}
 
 There is some uncertainty to whether Facebook will be coming back with a new&nbsp; lite version of Instagram as it has previously done.
