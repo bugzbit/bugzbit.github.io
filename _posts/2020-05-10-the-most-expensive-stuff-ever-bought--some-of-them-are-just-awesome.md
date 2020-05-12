@@ -3,8 +3,7 @@ layout: post
 title: The Most Expensive Stuff ever bought. Some of them are just awesome
 author:
 categories:
-  - Jekyll
-  - tutorial
+  - Entertainment
 image: uploads/expensive-watch.png
 featured: false
 ---
