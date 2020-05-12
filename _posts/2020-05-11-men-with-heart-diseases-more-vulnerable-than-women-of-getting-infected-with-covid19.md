@@ -5,9 +5,7 @@ title: >-
   Covid19
 author:
 categories:
-  - '-Things'
-  - to
-  - do
+  - Health
 image: uploads/covid 19.jpg
 featured: false
 ---
