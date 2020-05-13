@@ -11,4 +11,10 @@
 	{% include sitemap-entry.xml entry=post %}
 {% endfor %}
 
+{% if page.layout %}
+{% for post in site.page %}
+	{% include sitemap-entry.xml entry=page %}
+{% endif %}
+{% endfor %}
+
 </urlset>
