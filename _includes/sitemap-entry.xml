@@ -1,0 +1,5 @@
+<url>
+  <loc>https://bugzbit.com/{{site.baseurl}}{{include.entry.url}}</loc>
+  <lastmod>{{include.entry.lastmod}}</lastmod>
+  <priority>{{include.entry.priority}}</priority>
+</url>
