@@ -4,7 +4,7 @@ title: The challenge of self driving cars
 author:
 categories:
   - Technology
-image: uploads/photgraphy.png
+image: /uploads/self driving.jpg
 featured: false
 ---
 
@@ -28,7 +28,7 @@ In case of an accident, who shall be liable? Since most of the driving is done b
 
 Self driving cars use technologies like Radar, Lasers and cameras for navigation. Any radar jamming signals or electromagnetic interference is going to kick the software of its feet. Hope that self driving car makers have taken in consideration conflicting signals being emitted from other cars.
 
-Self driving cars will be here but when is matter of time.
+Self driving cars will be here but when is a matter of time.
 
 &nbsp;
 
