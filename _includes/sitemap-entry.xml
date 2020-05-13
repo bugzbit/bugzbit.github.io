@@ -1,5 +1,5 @@
 <url>
-  <loc>https://bugzbit.com/{{site.baseurl}}{{include.entry.url}}</loc>
+  <loc>https://bugzbit.com{{site.baseurl}}{{include.entry.url}}</loc>
   {% if include.entry.lastmod %}
   <lastmod>{{include.entry.lastmod}}</lastmod>
   {% endif %}
