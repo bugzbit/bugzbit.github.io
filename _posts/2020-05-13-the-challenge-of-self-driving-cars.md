@@ -16,7 +16,7 @@ Here is a list of challenges self driving cars manufacturers are facing.
 
 AI tech, being the forefront of Self driving cars, relies on a lot of data to train itself. Self driving cars would have to go through hours of training videos and data of real world to come up with good driving behavior.
 
-**2\. Uncertainity**
+**2\. Uncertainty**
 
 In a real world on road situation, uncertainties related to external conditions like weather, road conditions , traffic conditions, and vehicle condition bring in a lot more parameters than can be actually simulated in a lab. This uncertainty also leads to the next point.
 
