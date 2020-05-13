@@ -1,5 +1,5 @@
 <url>
   <loc>https://bugzbit.com/{{site.baseurl}}{{include.entry.url}}</loc>
-  <lastmod>{{ page.last_modified_at | date: "%b %-d, %Y" }}</lastmod>
+  <lastmod>{{include.entry.lastmod}}</lastmod>
   <priority>0.8</priority>
 </url>
