@@ -44,7 +44,7 @@ plugins:
 collections:
     posts:
         output: true
-        permalinks: ':categories/:title.html'
+        permalinks: /:category/:title.html
         
         
 # Archives
