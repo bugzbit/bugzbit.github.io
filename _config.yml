@@ -1,8 +1,8 @@
 # Site
 name: "Bugzbit"
 title: "Bugzbit"
-description: "A bit of everything"
-meta_description: "A bit of everything "
+description: "A bit of everything. Technology, Entertainment, blogs, opinions everything consolidated in a bugz bit"
+meta_description: "A bit of everything. Technology, Entertainment, blogs, opinions everything consolidated in a bugz bit"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
