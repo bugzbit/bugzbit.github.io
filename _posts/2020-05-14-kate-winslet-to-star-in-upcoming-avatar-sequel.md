@@ -5,7 +5,7 @@ author:
 categories:
   - Entertainment
   - News
-image:
+image: /uploads/avatar sequel.jpg
 featured: false
 ---
 
