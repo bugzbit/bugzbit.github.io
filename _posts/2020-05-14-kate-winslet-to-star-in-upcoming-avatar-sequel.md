@@ -13,8 +13,6 @@ An underwater performance capture was the released by the team of Avatar&nbsp; J
 
 A 900,000 gallon performance capture tank has been built for the Avatar sequel. It is expected that the movie will have a lot more improved VFX and visuals.
 
-{% twitter https://twitter.com/officialavatar/status/1260604924095651840 maxwidth=500 limit=1 %}
-
 It has been 10 years since the first part of the academy award winning movie was released in 2009. The movie had amazing visuals for which it won accolades too. The \#2 highest grossing movie's sequel has been in the wait for long .
 
 With director James Cameron on the helm of the movie, it is expected to be yet another master piece. A pleasant news in the middle of&nbsp; quarantine indeed.
