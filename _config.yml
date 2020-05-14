@@ -42,9 +42,9 @@ plugins:
         
 # post & page
 collections:
-    posts:
-        output: true
-        permalinks: /:category/:title.html
+  posts:
+    output: true
+    permalinks: /:categories/:title.html
         
         
 # Archives
