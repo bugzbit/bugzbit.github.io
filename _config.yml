@@ -39,6 +39,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
         
+        
+# post & page
+collections:
+    posts:
+        output: true
+        permalinks: ':categories/:title.html'
+        
+        
 # Archives
 jekyll-archives:
   enabled:
