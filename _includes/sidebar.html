@@ -8,9 +8,9 @@
         <div class="sidebar-section">
             <h5><span>Useful</span></h5>
             <ul style="list-none;">
-            <li><a target="_blank" href="https://m.do.co/c/84c9b45d0c47">Digital Ocean</a></li>
-            <li><a target="blank" href="https://www.cloudways.com/en/pricing.php?id=153986&a_bid=005da123">Cloudways</a></li>
-            <li><a target="blank" href="http://shareasale.com/r.cfm?b=875645&u=1087935&m=41388&urllink=&afftrack=">Page Speed Test</a></li>
+            {% for category in site.categories %}
+            <li><a target="_blank" href="https://m.do.co/c/84c9b45d0c47">{% category %}</a></li>
+            {% endfor %}
           <!--  <li><a target="blank" href="https://www.wowthemes.net/affiliate-area/?utm_source=fromjekyllsidebar&utm_campaign=sidebar">Partner with Us</a></li>
             <li><a target="blank" href="https://www.wowthemes.net/category/jekyll-themes/">Our Jekyll Themes</a></li> -->
             </ul>
@@ -30,6 +30,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
         </div>
+        
        <div class="sidebar-section">
         <a href="https://twitter.com/intent/tweet?screen_name=bugzbit1&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div> 
