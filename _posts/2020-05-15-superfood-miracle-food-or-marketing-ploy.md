@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Superfood  Miracle Food or Marketing ploy
+title: 'Superfood, Miracle Food or Marketing ploy?'
 author:
 categories:
   - Health
