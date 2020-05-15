@@ -3,9 +3,8 @@ layout: post
 title: Superfood  Miracle Food or Marketing ploy
 author:
 categories:
-  - Entertainment
-  - News
-image:
+  - Health
+image: uploads/superfood.png
 featured: false
 ---
 
@@ -17,7 +16,7 @@ Most of the Superfoods would fall in the rich in antioxidant properties, which w
 
 Superfoods are also termed to be the bridge between regular food and alternative medications.
 
-<h2>gt;But, is it just a marketing Ploy?</h2>
+## But, is it just a marketing Ploy?
 
 {% include adunit.html %}
 
@@ -25,7 +24,6 @@ Superfood, A $130 billion dollar industry , does raise some eyebrows. These are 
 
 Since there is no definitive authority to confirm whether these food are really as good as they claim they are. The FDA and British Dietic Associated are unwilling to give support to claims of benefits arsing out of these foods.
 
-<h2>Conclusion</h2>
+## Conclusion
 
 Though there is nutritious value attached to the so called superfoods there is not definitive authority backing it. Is buying these food really worth every extra penny you have?
-
