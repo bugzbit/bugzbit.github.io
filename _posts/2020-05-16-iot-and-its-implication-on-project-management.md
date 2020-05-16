@@ -34,3 +34,5 @@ Prempting Risk and and at the same time coming up with a definitive strategy to 
 Underestimating cost is one of the most of the common mistakes made in Project Management. Expenses of multiple teams like HR, consultants, equipment along with other unplanned costs can take the project budget for a toss. IoT helps in monitor and control real-time cost impacts and help make budgeting decisions.
 
 IoT gives enablers like data management and analysis, Monitoring and control, faster reporting allowing faster project life with minimum contingencies.
+
+*image source:https://www.freepik.com/free-vector/light-blue-project-management-concept\_2080804.htm\#page=1&query=project&position=0*
