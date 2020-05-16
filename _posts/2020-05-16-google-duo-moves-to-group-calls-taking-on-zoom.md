@@ -5,7 +5,7 @@ author:
 categories:
   - Technology
 image: uploads/goole-duo.jpeg
-featured: true
+featured: false
 ---
 
 Amidst COVID19 and&nbsp; Chinese video calling app ZOOM's security concerns, Google has now introduced group calling features in its video-telephony app **Duo.&nbsp;** The preview of the latest app will be made on chrome in a coming few weeks.![](/uploads/gsmarena-003.gif){: width="1024" height="512"}
