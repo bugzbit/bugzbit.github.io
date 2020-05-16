@@ -3,8 +3,7 @@ layout: post
 title: IoT and its implication on Project Management
 author:
 categories:
-  - Entertainment
-  - News
+  - Technology
 image: uploads/Project IoT.jpg
 featured: true
 ---
