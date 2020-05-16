@@ -13,11 +13,11 @@ Internet of Things(IoT) is all about anything natural or manmade, which can foll
 
 Just like any other field, Project Management has its own sets of challenges. These challenge brings in an opportunity for innovation and expertise to reduce errors and ensure automation. This article is an attempt to dwell and understand more of these Challenges and IOT Solutions
 
-##1. Improper Goal Setting and poorly defined Objectives
+## Improper Goal Setting and poorly defined Objectives
 
 The first phase of setting up. Project managers come across situation where projects get delayed or shelved due to improper goal setting poorly defined objectives. IoT will bring in access to Big Data and improved analysis. This will help project managers in smarter decision making out of qualitative and quantitative data. These data can be seemlessly integrated with existing ERP of an organisation, enabling teams to accurately predict future outcomes.
 
-##2. Lack of Effective Communication
+## Lack of Effective Communication
 
 Communication barriers, can lead any well defined project into a disaster. Teams after teams are changed at the expense of the project and organisation to get their communication right. Connected Devices and constant flow of data can be arranged with IoT. No more manual compilation of status reports, and real time data flow from connected equipments can provide managers enough insight to communicate effectively at the same time to multiple teams.
 
@@ -25,11 +25,11 @@ Communication barriers, can lead any well defined project into a disaster. Teams
 
 {% include adunit.html %}
 
-##3. Risk Management
+## Risk Management
 
 Prempting Risk and and at the same time coming up with a definitive strategy to mitigate risk is one of the primary roles of the project manager. IoT allows real-time control and monitoring of processes any arising contingencies and at the same time. Taking prompt actions and communication across teams and equipments can reduce impact of any undesirable circumstances.
 
-##4. Budgeting Accuracy
+## Budgeting Accuracy
 
 Underestimating cost is one of the most of the common mistakes made in Project Management. Expenses of multiple teams like HR, consultants, equipment along with other unplanned costs can take the project budget for a toss. IoT helps in monitor and control real-time cost impacts and help make budgeting decisions.
 
