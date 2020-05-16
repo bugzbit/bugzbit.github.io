@@ -6,7 +6,7 @@ categories:
   - Entertainment
   - News
 image: uploads/Project IoT.jpg
-featured: false
+featured: True
 ---
 
 Internet of Things(IoT) is all about anything natural or manmade, which can follow protocols over the internet and enable transfer of data with web enabled smart devices. The applications of IoT are limitless, as requirement for devices which work with minimum or no human intervention increases day by day.One such verticle for implementation is Project Management.
