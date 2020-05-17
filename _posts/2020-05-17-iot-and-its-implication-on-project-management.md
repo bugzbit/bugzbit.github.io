@@ -5,6 +5,7 @@ author:
 categories:
   - Technology
 image: uploads/Project IoT.jpg
+keywords: "data projects devices communication managers IoT budgeting"
 featured: true
 ---
 
