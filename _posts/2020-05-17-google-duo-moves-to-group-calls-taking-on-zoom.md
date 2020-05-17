@@ -4,7 +4,7 @@ title: Google Duo moves to group calls taking on Zoom
 author:
 categories:
   - Technology
-image: uploads/goole-duo.jpeg
+image: uploads/goole duo.jpg
 featured: false
 ---
 
