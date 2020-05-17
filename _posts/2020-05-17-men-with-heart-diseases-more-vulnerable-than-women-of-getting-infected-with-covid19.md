@@ -18,9 +18,8 @@ ACE2(angiotensin-converting enzyme 2) is a type of protein present in the blood 
 
 A Group of 2000+, including men and women, were measured for ACE2 concentrations from 2 groups from 11 European Countries. The reassearch suggest though men and women&nbsp; are susceptible to infections equally , but men are more likely to suffer due to infections
 
-> {% include adunit.html %}
->
->
+{% include adunit.html %}
+
 > “Our findings do not support the discontinuation of these drugs in COVID-19 patients as has been suggested by earlier reports.” - Dr Adriaan Voors (MD-PhD), Professor of Cardiology at the University Medical Center Groningen
 
 The European Heart Journal also suggested that the heart failure patients who are under treatment with ACE inhibitors or ARB (angiotensin receptor blockers), have lower concentration of&nbsp; ACE2 reducing the risk of COVID-19 infections.
