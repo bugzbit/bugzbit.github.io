@@ -10,8 +10,6 @@
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 <meta property="og:site_name" content="Bugzbit">
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5ca62ab82c4f3b001126ee5b&product=inline-share-buttons' async='async'></script>
-
-{% seo %}
 <meta name="keywords" content="{{ page.keywords }}" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -20,6 +18,10 @@
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
     
 {{site.sharethis}}
+
+<!-- Adsense Code -->    
+<script data-ad-client="ca-pub-1403539113833100" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     
 {% if jekyll.environment == 'production' %}    
 <script>
@@ -32,8 +34,6 @@
   ga('send', 'pageview');
 </script>
 {% endif %}  
-<!-- Adsense Code -->    
-<script data-ad-client="ca-pub-1403539113833100" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!-- Facebook Pixel Code -->
 <script>
