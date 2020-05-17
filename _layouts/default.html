@@ -6,7 +6,7 @@
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">    
 <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
 <meta property="og:locale" content="en_US">
-<meta name="description" content="{{% if page.title %}{{page.title}}{% else %}{{ page.content | markdownify | strip_html | truncate: 155 }}}" />
+<meta name="description" content="{% if page.title %}{{page.title}}{% else %}{{ page.content | markdownify | strip_html | truncate: 155 }}" />
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 <meta property="og:site_name" content="Bugzbit">
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5ca62ab82c4f3b001126ee5b&product=inline-share-buttons' async='async'></script>
