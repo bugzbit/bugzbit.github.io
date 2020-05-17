@@ -4,7 +4,7 @@ title: Shut down of Instagram Lite
 author:
 categories:
   - Technology
-image: /uploads/instagram lite.jpg
+image: uploads/instagram lite.jpg
 featured: false
 ---
 
