@@ -14,6 +14,8 @@ Google has also introduced a new family mode where the mute and end call buttons
 
 ![](/uploads/duo-mothersday-512x512-transparentbg-device-1.gif){: width="512" height="512"}
 
+{% include adunit.html %}
+
 &nbsp; The Family mode features also allows the participants to doodle and apply filters real time. You would have to be logged in google to use the family feature.
 
 ![](/uploads/duo-familymode-512x512-transparentbg-device--1-.jpg){: width="512" height="512"}
