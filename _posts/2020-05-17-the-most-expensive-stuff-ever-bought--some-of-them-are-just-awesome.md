@@ -4,7 +4,7 @@ title: The Most Expensive Stuff ever bought. Some of them are just awesome
 author:
 categories:
   - Entertainment
-image: uploads/expensive-watch.png
+image: uploads/expensive watch.jpg
 featured: false
 ---
 
