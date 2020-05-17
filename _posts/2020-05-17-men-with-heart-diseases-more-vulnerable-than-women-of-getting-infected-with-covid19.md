@@ -7,7 +7,7 @@ author:
 categories:
   - Health
 image: uploads/covid 19.jpg
-featured: true
+featured: false
 ---
 
 Credit: [Home vector created by pikisuperstar - www.freepik.com](https://www.freepik.com/free-photos-vectors/Home){: target="_blank"}
