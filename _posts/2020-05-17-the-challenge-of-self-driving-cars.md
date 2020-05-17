@@ -4,7 +4,7 @@ title: The challenge of self driving cars
 author:
 categories:
   - Technology
-image: uploads/self driving.jpg
+image: /uploads/382562-PC3L1F-590.jpg
 featured: false
 ---
 
@@ -19,6 +19,8 @@ AI tech, being the forefront of Self driving cars, relies on a lot of data to tr
 **2\. Uncertainty**
 
 In a real world on road situation, uncertainties related to external conditions like weather, road conditions , traffic conditions, and vehicle condition bring in a lot more parameters than can be actually simulated in a lab. This uncertainty also leads to the next point.
+
+{% include adunit.html %}
 
 **3\. Insurance and Liabilities**
 
