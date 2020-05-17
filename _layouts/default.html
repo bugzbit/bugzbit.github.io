@@ -52,7 +52,11 @@
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">
-
+<script>
+  fbq('track', 'ViewContent', {
+    value: 1,
+  });
+</script>
     
 <!-- Begin Menu Navigation
 ================================================== -->
