@@ -6,6 +6,7 @@ categories:
   - Health
 image: uploads/superfood.jpg
 featured: true
+keywords: "foods vitamins diseases minerals medication antioxidants"
 ---
 
 Superfood, though there is no definitive nomenclature, these are plant&nbsp; base or types of meat, which are rich in anti-oxdidants , minerals, and Vitamins. Touted as next thing to cure or prevent dangerous ailments such Cancer, Heart Diseases, Diabities and other non likeable ailments.Foods like blueberries, chia seeds, kale, salmon, and nuts have considerable health benefits. Most health practitioners might suggest that a combination of superfood in your diet can have considerable health benefits.
