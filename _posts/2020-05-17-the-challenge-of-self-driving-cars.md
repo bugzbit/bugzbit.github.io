@@ -6,6 +6,7 @@ categories:
   - Technology
 image: uploads/382562-PC3L1F-590.jpg
 featured: false
+keywords: "cars uncertanity data signal interference insurance"
 ---
 
 AI is the next big thing and Self driving cars were meant to be its greatest proof of concept . Many top brands after jumping into the Self Driving-tech bandwagon are now slowly pulling.&nbsp; One such fatality was the transport-tech giant Uber.&nbsp; Organizations like Google Waymo, Toyota, and GM were predicting a launch by 2020 in the year 2015. Tesla went ahead to claim a fully functional self driving car by 2018, but none on these players seem to see the light of the day.
