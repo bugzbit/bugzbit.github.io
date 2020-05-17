@@ -4,11 +4,13 @@ title: Shut down of Instagram Lite
 author:
 categories:
   - Technology
-image: uploads/instagram lite.jpg
+image: /uploads/instagram lite.jpg
 featured: false
 ---
 
 Instagram lite, the slimmed down version of the popular photo & video app, Instagram, has been shut down by Facebook. Many social media companies have a lite version for the developing markets like Asia and Africa, which is basically just the web-view of their popular app,&nbsp; gets more users from low-end hardware markets and low data speed.
+
+{% include adunit.html %}
 
 The fully functional has to downloaded to function as it appears in the screen of existing lite user. A concern here could be the reduction in the number of the user due to issues of low end hardware and memory space .
 
