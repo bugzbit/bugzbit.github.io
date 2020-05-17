@@ -4,7 +4,7 @@ title: The challenge of self driving cars
 author:
 categories:
   - Technology
-image: uploads/382562-PC3L1F-590.jpg
+image: uploads/project.jpg
 featured: false
 ---
 
