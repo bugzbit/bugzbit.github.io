@@ -10,7 +10,7 @@ baseurl: ''
 email: 'nvmprosol@gmail.com'
 google_analytics: 'UA-129819157-3'
 disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5ca62ab82c4f3b001126ee5b&product=sticky-share-buttons"></script>'
 permalink: /:categories/:title:output_ext
 
 # Authors
