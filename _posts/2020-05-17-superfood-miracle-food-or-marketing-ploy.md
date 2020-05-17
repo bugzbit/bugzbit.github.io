@@ -4,7 +4,7 @@ title: 'Superfood, Miracle Food or Marketing ploy?'
 author:
 categories:
   - Health
-image: uploads/superfood.png
+image: uploads/superfood.jpg
 featured: true
 ---
 
