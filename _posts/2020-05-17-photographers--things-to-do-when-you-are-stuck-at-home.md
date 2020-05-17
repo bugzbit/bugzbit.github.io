@@ -4,13 +4,11 @@ title: 'Photographers : Things to do when you are stuck at home'
 author:
 categories:
   - Self Help
-image: uploads/photgraphy.png
+image: uploads/photgraphy.jpg
 featured: false
 ---
 
 Most of us are stuck at home with little or no income. Best part of this we can do thing we normally wouldn’t do or don’t have time for. We can’t even go out anymore to take pictures in nature. In these times we are kind of forced to do some work from behind our desk. I’ll be sharing a list of ‘things to do’ for all photographers while you’re stuck at home.
-
-![](/uploads/photgraphy.png){: width="327" height="184"}
 
 1\. **Process old images**.
 
@@ -20,11 +18,11 @@ Most of us are stuck at home with little or no income. Best part of this we can 
 
 &nbsp;&nbsp; &nbsp;These days getting hold of the right online course for the skill you are lacking may not be difficult at all. YouTube can be a huge source of online tutorials to learn photography and processing skill. If you are a professional, you can use your spare time offering paid tutorials via skype.
 
-3\. \*\*Organise your Gear \*\*
+{% include adunit.html %}
 
-&nbsp;&nbsp; &nbsp;
+**3\. \*\*Organise your Gear \*\***
 
-We have countless gears from doing years and years of photography. Some of it we never use. Think of old lenses, old bodies, tripods, etc. Spend some time to sort everything and see what you can give away or sell.
+&nbsp;We have countless gears from doing years and years of photography. Some of it we never use. Think of old lenses, old bodies, tripods, etc. Spend some time to sort everything and see what you can give away or sell.
 
 4\. **Find a inspiration\!**
 
