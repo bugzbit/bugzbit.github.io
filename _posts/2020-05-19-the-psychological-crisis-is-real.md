@@ -4,17 +4,16 @@ title: The Psychological Crisis is  Real
 author:
 categories:
   - Health
-image:
+image: /uploads/mental-health.jpg
 featured: false
-keywords: "health disorders depression problems conditions crisis"
+keywords: health disorders depression problems conditions crisis
 ---
 
-A life obstacle, physical problems, or perception of experience can be one of the many reasons why individuals may experience psychological problems. As the world gets faster pace the occurrence of such psychological crisis increases day by day. 
+A life obstacle, physical problems, or perception of experience can be one of the many reasons why individuals may experience psychological problems. As the world gets faster pace the occurrence of such psychological crisis increases day by day.
 
 Events or genetic conditions may affect differently on different persons making a more complex subject of study. There is no one-size-fits-all solution available. With the number of people affected by mental health issues increasing every day, it qualifies as a crisis.
 
 > According to WHO, around 450 million people suffer from mental illness
-
 
 ## The cost to self
 
@@ -22,7 +21,7 @@ People with psychological conditions have been more prone to addiction to halluc
 
 ## The cost to the family
 
-When it comes to mental health the cost to the family does not limit to financial troubles. Family members of persons with mental health issues, often display symptoms of anxiety, stress, and depression. Children are the biggest sufferers when it comes to parents with mental health issues. 
+When it comes to mental health the cost to the family does not limit to financial troubles. Family members of persons with mental health issues, often display symptoms of anxiety, stress, and depression. Children are the biggest sufferers when it comes to parents with mental health issues.
 
 > According to a Swedish study, one-half of family members claimed they had developed psychological or social problems (such as sleeping problems and depression) of their own, to such an extent that they also needed help and support.
 
@@ -35,9 +34,3 @@ Loss in productivity, and increased cost to the health care systems are the comm
 ## The Solution.
 
 Society, family, and the individual should stop looking 'Psychological Health' as a taboo and instead start looking mental health as any other medical condition. Timely intervention, self-help, family support, and community support can stop a psychological crisis before it ends up as an epidemic.
-
-
-
-
-
-
