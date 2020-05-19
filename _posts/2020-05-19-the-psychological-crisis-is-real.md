@@ -19,7 +19,7 @@ Events or genetic conditions may affect differently on different persons making 
 
 People with psychological conditions have been more prone to addiction to hallucinating devices leading to substance abuse. Some disorders have also lead to long term medical conditions due to mental health issues. The world health organization estimates that one person dies of suicide every 40 seconds around the world. It is very difficult for individuals to accept and detect that they are going through any mental health conditions. By the time people realize they have some problems it the illness seems to have already taken a toll on their wellbeing.
 
-{{ include adunit.html }}
+{% include adunit.html %}
 
 
 ## The cost to the family
