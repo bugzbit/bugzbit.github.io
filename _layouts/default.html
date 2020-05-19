@@ -8,7 +8,7 @@
 <meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{ page.content | markdownify | strip_html | truncate: 155 }}{% endif %}" />
 <meta name="og:title" content="{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}" />
 <meta name="og:description" content="{% if page.description %}{{page.description}}{% else %}{{ page.content | markdownify | strip_html | truncate: 155 }}{% endif %}" />
-<meta name=og:image content="{% if page.image %}{{site.url}}/{{page.image}}{% endif %}"/> 
+<meta name="og:image" content="{% if page.image %}{{site.url}}/{{page.image}}{% endif %}"/> 
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 <meta property="og:site_name" content="Bugzbit">
