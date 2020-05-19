@@ -6,9 +6,8 @@ categories:
   - Health
 image:
 featured: false
+keywords: "health disorders depression problems conditions crisis"
 ---
-
-The psychological crisis is real 
 
 A life obstacle, physical problems, or perception of experience can be one of the many reasons why individuals may experience psychological problems. As the world gets faster pace the occurrence of such psychological crisis increases day by day. 
 
