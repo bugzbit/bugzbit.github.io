@@ -30,7 +30,7 @@ When it comes to mental health the cost to the family does not limit to financia
 
 Loss in productivity, and increased cost to the health care systems are the common cost associated with mental health issues. Along with this, patients with extreme mental health disorders seem to have resorted to substance abuse and violence creating stress on the law and order situation.
 
-> [*CAMH*](https://www.camh.ca/en/driving-change/the-crisis-is-real){: target='_blank'}, Canada mentions in its report "Mental illness is a leading cause of disability in this country, preventing nearly 500,000 employed Canadians from attending work each week"
+> [*CAMH*](https://www.camh.ca/en/driving-change/the-crisis-is-real){: target="_blank"}, Canada mentions in its report "Mental illness is a leading cause of disability in this country, preventing nearly 500,000 employed Canadians from attending work each week"
 
 ## The Solution.
 
