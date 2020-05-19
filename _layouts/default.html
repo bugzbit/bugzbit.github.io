@@ -11,7 +11,7 @@
 <meta name="og:description" content="{% if page.description %}{{page.description}}{% else %}{{ page.content | markdownify | strip_html | truncate: 154 }}{% endif %}" />
 <meta name="og:image" content="{% if page.image %}{{site.url}}/{{page.image}}{% endif %}"/> 
 <meta property="og:locale" content="en_US">
-<meta content="{{post.categories}}" property="article:section">
+<meta content="{{page.categories}}" property="article:section">
 <meta content="summary_large_image" name="twitter:card">
 <meta content="@bugzbit1" name="twitter:site">
 <meta content="{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}" property="twitter:title">
