@@ -4,7 +4,7 @@ title: The Psychological Crisis is  Real
 author:
 categories:
   - Health
-image: /uploads/mental-health.jpg
+image: uploads/mental-health.jpg
 featured: false
 keywords: health disorders depression problems conditions crisis
 ---
