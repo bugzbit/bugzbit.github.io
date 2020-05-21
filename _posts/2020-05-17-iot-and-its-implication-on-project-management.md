@@ -11,7 +11,7 @@ featured: true
 
 Internet of Things(IoT) is all about anything natural or manmade, which can follow protocols over the internet and enable transfer of data with web enabled smart devices. The applications of IoT are limitless, as requirement for devices which work with minimum or no human intervention increases day by day.One such verticle for implementation is Project Management.
 
-Just like any other field, Project Management has its own sets of challenges. These challenge brings in an opportunity for innovation and expertise to reduce errors and ensure automation. This article is an attempt to dwell and understand more of these Challenges and IOT Solutions
+Just like any other field, Project Management has its own sets of challenges. These challenge brings in an opportunity for innovation and expertise to reduce errors and ensure automation. This article is an attempt to dwell and understand more of these Challenges and IOT Solutions.
 
 ## Improper Goal Setting and poorly defined Objectives
 
