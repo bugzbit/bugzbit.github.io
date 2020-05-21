@@ -12,7 +12,7 @@ Instagram lite, the slimmed down version of the popular photo & video app, Insta
 
 {% include adunit.html %}
 
-The fully functional has to downloaded to function as it appears in the screen of existing lite user. A concern here could be the reduction in the number of the user due to issues of low end hardware and memory space .
+The fully functional has to downloaded to function as it appears in the screen of existing lite user. A concern here could be the reduction in the number of the user due to issues of low end hardware and memory space.
 
 ![](/uploads/instagram-lite-no-longer.jpg){: width="329" height="637"}
 
