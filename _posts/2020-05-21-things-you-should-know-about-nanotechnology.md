@@ -6,7 +6,7 @@ categories:
   - Technology
 image:
 featured: false
-keywords: health disorders depression problems conditions crisis
+keywords: "Nanotechnology polymers applications nanoparticles synthesis research"
 ---
 
 The desire for technology to be minuscule and convenient is what has defined the last 2 decades of innovation and science. One such area of research which is related to the manipulation of minutest has been Nanotechnology.
