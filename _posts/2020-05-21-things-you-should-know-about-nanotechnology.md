@@ -31,7 +31,7 @@ As shown earlier, Nanotechnology has a lot of applications. Let us take a look i
 
 Materials made to enhance the mechanical, and thermal characteristics based on polymers, ceramic, or metallic elements.
 
-*\*\*Smart Nanomaterials \*\**
+***Smart Nanomaterials***
 
 These are materials used in the development of electronic, magnetic, and photonic devices which shall provide enhanced parameters like being lightweight, optimum space utility, and cost-efficiency. It will also be corroborated to design elements for sensitive environments susceptible to temperature, pressure, or radiation.
 
