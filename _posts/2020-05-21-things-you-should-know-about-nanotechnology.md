@@ -45,7 +45,7 @@ They can be dramatically advanced to implement hybrid structures of coating betw
 
 ## What are the Key Challenges for Nanotechnology?
 
-According to *GENESYS white paper*\[https://www.nanowerk.com/nanotechnology/reports/reportpdf/report136.pdf\], published by the Max Plank Institute for Metal Research, the challenges currently are
+According to [*GENESYS white paper*](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report136.pdf) {: target="_blank"}, published by the Max Plank Institute for Metal Research, the challenges currently are
 
 ***Synthesis of primary Nanoparticles***
 
