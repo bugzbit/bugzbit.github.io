@@ -6,6 +6,7 @@ categories:
   - Entertainment
 image: uploads/expensive watch.jpg
 featured: false
+keywords: "billionaire manhattan shark car"
 ---
 
 From Dead Sharks to Golden Cars, here are some of the most expensive stuff ever bought. Some of them are just unbelievable
