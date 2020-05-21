@@ -4,9 +4,9 @@ title: Things you should know about Nanotechnology
 author:
 categories:
   - Technology
-image:
+image: uploads/hexagon-structure-2g-1633278-640x360_525x276.jpg
 featured: false
-keywords: "Nanotechnology polymers applications nanoparticles synthesis research"
+keywords: Nanotechnology polymers applications nanoparticles synthesis research
 ---
 
 The desire for technology to be minuscule and convenient is what has defined the last 2 decades of innovation and science. One such area of research which is related to the manipulation of minutest has been Nanotechnology.
@@ -31,7 +31,7 @@ As shown earlier, Nanotechnology has a lot of applications. Let us take a look i
 
 Materials made to enhance the mechanical, and thermal characteristics based on polymers, ceramic, or metallic elements.
 
-***Smart Nanomaterials ***
+*\*\*Smart Nanomaterials \*\**
 
 These are materials used in the development of electronic, magnetic, and photonic devices which shall provide enhanced parameters like being lightweight, optimum space utility, and cost-efficiency. It will also be corroborated to design elements for sensitive environments susceptible to temperature, pressure, or radiation.
 
@@ -45,7 +45,7 @@ They can be dramatically advanced to implement hybrid structures of coating betw
 
 ## What are the Key Challenges for Nanotechnology?
 
-According to [*GENESYS white paper*](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report136.pdf) {: target="_blank"}, published by the Max Plank Institute for Metal Research, the challenges currently are
+According to [*GENESYS white paper*](https://www.nanowerk.com/nanotechnology/reports/reportpdf/report136.pdf) \{: target="\_blank"\}, published by the Max Plank Institute for Metal Research, the challenges currently are
 
 ***Synthesis of primary Nanoparticles***
 
