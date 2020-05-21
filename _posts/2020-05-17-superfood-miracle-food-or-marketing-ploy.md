@@ -26,5 +26,4 @@ Superfood, A $130 billion dollar industry , does raise some eyebrows. These are 
 Since there is no definitive authority to confirm whether these food are really as good as they claim they are. The FDA and British Dietic Associated are unwilling to give support to claims of benefits arsing out of these foods.
 
 ## Conclusion
-
 Though there is nutritious value attached to the so called superfoods there is not definitive authority backing it. Is buying these food really worth every extra penny you have?
