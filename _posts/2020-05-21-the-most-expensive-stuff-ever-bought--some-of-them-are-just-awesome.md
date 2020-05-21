@@ -8,9 +8,7 @@ image: uploads/expensive watch.jpg
 featured: false
 ---
 
-From Dead Sharks to Golden Cars, here are some of the most expensive stuff ever
-
-bought
+From Dead Sharks to Golden Cars, here are some of the most expensive stuff ever bought. Some of them are just unbelievable
 
 **1\. Parking Spot in Manhattan : $1 million**
 
