@@ -22,7 +22,7 @@ Most of us are stuck at home with little or no income. Best part of this we can 
 
 **3\. \*\*Organise your Gear \*\***
 
-&nbsp;We have countless gears from doing years and years of photography. Some of it we never use. Think of old lenses, old bodies, tripods, etc. Spend some time to sort everything and see what you can give away or sell.
+&nbsp;We have countless gears from doing years and years of photography. Some of it we never use. Think of old lenses, old bodies, tripods, etc. Spend some time to sort everything and see what you can give away or sell
 
 4\. **Find a inspiration\!**
 
