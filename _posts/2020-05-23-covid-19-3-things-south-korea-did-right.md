@@ -18,6 +18,8 @@ South Korea was the first to suffer from the COVID-19 crisis out of China in the
 
 Contact Tracing is the primary reason why South Korea was able to contain cases at peak levels. The country's prior experience with MERS in 2015, gave rise to the Infectious Disease Prevention and Control Act, which allowed the government to track a cell phone, and financial information to identify and trace movements of infected people.
 
+{% include adunit.html %}
+
 KETI and ministry of Land, infrastructure, and transport designed the Epidemic Investigation Support System(EISS) in March 2020. The system allowed authorities to track positive cases and their movements. The system tracks along with cell phone and financial information shares urban planning, demographic, and traffic information, though with some teething problems, has successfully enabled the establishment to lower the number of deaths which now stands at 206.
 
 ## 2\. Trust in the Government
