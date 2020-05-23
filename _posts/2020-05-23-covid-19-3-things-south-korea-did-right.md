@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Covid-19: 3 things South korea did right'
+title: 'Covid-19: 3 things South Korea did right'
 author:
 categories:
   - News
