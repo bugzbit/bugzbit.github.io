@@ -15,6 +15,7 @@ The desire for technology to be minuscule and convenient is what has defined the
 Just for comparison, 100,000 nanometers is equivalent to the thickness of a newspaper sheet. The benefits of working with nanotech can be limitless. Nanotech is about building elements at the atomic level. At this scale the characteristics of materials differ from their original macro scale. Let us say, elements at the nanoscale are much stronger, lighter, and functional.
 
 Nanotechnology was first coined by Japanese scientist Norio Taniguchi in the year 1974, who was also accoladed with the lifetime achievement award by the European Society for Precision Engineering and Nanotechnology in Bremen,1999.
+{% include adunit.html %}
 
 > In 1960, engineers Mohamed Atalla and Dawon Kahng at Bell Labs fabricated the first MOSFET (metal-oxide-semiconductor field-effect transistor) with a gate oxide thickness of 100 nm."
 
@@ -23,6 +24,8 @@ Nanotechnology was first coined by Japanese scientist Norio Taniguchi in the yea
 It is said that nanotechnology will bring in the next industrial revolution. Be it advanced health care, automobile, security, food, clean energy etc., the implicating of nanotechnology is limitless. Countries that will lead nanotechnology may be able to get many advantages over others. VantaBlack is one such example. Developed by Surrey Nanosystems, VantaBlack can absorb 99.965% of visible light making it one of the darkest substances known to mankind. The applications of VantaBlack are many like improving the sensitivity of telescope or camera equipment, thermal camouflage, for heat absorption in solar technology, etc. Nanotechnology will introduce the world to the next generation of materials and compounds which can change the way we have looked at technology and its applications
 
 ## Where nanotechnology is applied?
+
+{% include adunit.html %}
 
 As shown earlier, Nanotechnology has a lot of applications. Let us take a look into the details of what real-world applications can nanotechnology used for.
 
