@@ -7,7 +7,7 @@ categories:
   - Health
 image: uploads/covid-191.jpg
 featured: false
-keywords: "Business benefit government tax IRS U.S.""
+keywords: "Business benefit government tax IRS U.S."
 ---
 The coronavirus crisis has hit us hard. The biggest sufferers of this crisis are the small business owners. I have tried to compile a list of things that can be done by small businesses during the pandemic to sustain their businesses.
 
