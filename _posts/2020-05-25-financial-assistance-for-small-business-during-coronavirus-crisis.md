@@ -23,6 +23,8 @@ These loans can be used to settle debts, payables, and payrolls.
 Small Businesses can apply for business loans with interest rates as low as 3.75% and tenure up to 30 years.
 Small Businesses with existing SBA loans can automatically benefit from deferments through December 31, 2020.
 
+{% include adunit.html %}
+
 ***Where to apply?***
 You can click on the SBA link [*here*](https://covid19relief.sba.gov/#/){: target="_blank"}
 
@@ -34,6 +36,8 @@ This law was accepted on the 6th March 2020 under [*H.R.6201*](https://www.congr
 ***How does it help?***
 Employers with 500 or fewer employees will be able to provide paid sick leaves to employees affected by a coronavirus.
 Employers will benefit from refundable payroll tax benefits to cover the expense of providing paid sick leave or FMLA leave up to the capped amounts of benefits.
+
+{% include adunit.html %}
 
 ***Where to Apply?***
 The details of these benefits can be obtained at the [*Department of Labor*](https://www.dol.gov/agencies/whd/pandemic/ffcra-employee-paid-leave){: target="_blank"}.
@@ -49,8 +53,9 @@ The Paycheck Protection Program, which allows businesses to borrow to the extent
 The Business Tax Provision, where employers can defer payment of payroll tax.
 Individuals earning less than $ 75,000 per year will be getting $ 1200 plus $ 500 per child.
 
-***Where to apply?***
+{% include adunit.html %}
 
+***Where to apply?***
 You can check it out at [*U.S. SBA*](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources) and for tax information [*here*](https://www.irs.gov/coronavirus-tax-relief-and-economic-impact-payments){: target="_blank"}
 
 
