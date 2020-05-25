@@ -5,7 +5,7 @@ author:
 categories:
   - News
   - Health
-image: /uploads/coronavir.jpg
+image: uploads/coronavir.jpg
 featured: false
 keywords: Business benefit government tax IRS U.S.
 ---
