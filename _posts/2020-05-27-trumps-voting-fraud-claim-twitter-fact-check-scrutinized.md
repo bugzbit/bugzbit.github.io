@@ -38,7 +38,7 @@ Once again twitter mentions that his prediction of how the Governor of Californi
 
 My Verdict: Mailin Voting doesn't seem to be a foolproof idea of voting as claimed by twitter but also the objective of the statement doesn't come in the ambit of a fact check.
 
-##Claim 3
+## Claim 3
 ***Five states already vote entirely by mail and all states offer some form of mail-in absentee voting, according to NBC News.***
 This statement seems to be out of context for the tweet from Donald Trump. Just because it is happening in other states it doesn't mean there is no chance of fraud. It just seems to be an addon statement. It is not fraud until someone is caught doing it is what twitter seems to imply.
 
