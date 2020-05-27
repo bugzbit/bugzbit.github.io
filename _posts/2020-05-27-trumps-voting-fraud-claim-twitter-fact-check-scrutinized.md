@@ -9,8 +9,6 @@ image: uploads/coronavir.jpg
 featured: false
 keywords: Business benefit government tax IRS U.S.
 ---
-Mailbox Voter Fraud: Truth or Hoax
-
 Earlier today, I just noticed Donald Trump's Twitter timeline with the fact check feature introduced by twitter. Here is the actual tweet. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There is NO WAY (ZERO!) that Mail-In Ballots will be anything less than substantially fraudulent. Mail boxes will be robbed, ballots will be forged &amp; even illegally printed out &amp; fraudulently signed. The Governor of California is sending Ballots to millions of people, anyone.....</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1265255835124539392?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -23,14 +21,14 @@ As a neutral spectator, I would be exploring the claim from twitter and also pro
 
 Let us
 
-##Claim 1
+## Claim 1
 ***Fact-checkers say there is no evidence that mail-in ballots are linked to voter fraud.***
 Who are these fact-checkers? Why is there no mention of who the fact check agency is? Is it inhouse twitter employees who assume that their belief is true. 
 As far as it is known, that an assumption can be fact-checked but a prediction can't be fact-checked. Just because a car is locked does it mean it can't be broken into. Donald Trump statement implies he is suspicious of voter fraud and lacks faith in the governor of California
 
-my Verdict: Claim 1 falls flat by poor comprehension.
+My Verdict: Claim 1 falls flat by poor comprehension.
 
-##Claim 2 
+## Claim 2 
 ***Trump falsely claimed that California will send mail-in ballots to "anyone living in the state, no matter who they are or how they got there." In fact, only registered voters will receive ballots.***
 Once again twitter mentions that his prediction of how the Governor of California may misuse the Mailbox voting by sending emails to anyone and everyone. Though Twitter here claims only registered users can receive ballots, which seems utopian, because of the next few points.
 
