@@ -5,7 +5,7 @@ author:
 categories:
   - News
   - Health
-image: /uploads/Screenshot from 2020-05-27 16-19-21.jpg
+image: uploads/Screenshot from 2020-05-27 16-19-21.jpg
 featured: false
 keywords: Ballot twitter fraud trump verdict voting
 ---
