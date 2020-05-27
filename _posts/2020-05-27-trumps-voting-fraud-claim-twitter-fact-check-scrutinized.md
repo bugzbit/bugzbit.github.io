@@ -58,6 +58,6 @@ My Verdict: This claim has very little relation to the context of the tweet and 
 
 {% include adunit.html %}
 
-\#\# Conclusions
+## Conclusions
 
 It seems like Twitter has made a mess of its fact check feature in this specific tweet. There is no historical claim from Donald Trump which has to be fact-checked in the first place. Twitter cannot assure voting fraud will not take place. Agenda or not but that is not how a fact check is done.
