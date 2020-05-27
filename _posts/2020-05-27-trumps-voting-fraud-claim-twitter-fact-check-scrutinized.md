@@ -5,9 +5,9 @@ author:
 categories:
   - News
   - Health
-image: uploads/coronavir.jpg
+image: /uploads/Screenshot from 2020-05-27 16-19-21.jpg
 featured: false
-keywords: "Ballot twitter fraud trump verdict voting "
+keywords: Ballot twitter fraud trump verdict voting
 ---
 
 Earlier today, I just noticed Donald Trump's Twitter timeline with the fact check feature introduced by twitter. Here is the actual tweet.
