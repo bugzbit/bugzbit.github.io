@@ -7,7 +7,7 @@ categories:
   - Health
 image: uploads/coronavir.jpg
 featured: false
-keywords: Business benefit government tax IRS U.S.
+keywords: "Ballot twitter fraud trump verdict voting "
 ---
 Earlier today, I just noticed Donald Trump's Twitter timeline with the fact check feature introduced by twitter. Here is the actual tweet. 
 
@@ -26,6 +26,8 @@ Let us
 Who are these fact-checkers? Why is there no mention of who the fact check agency is? Is it inhouse twitter employees who assume that their belief is true. 
 As far as it is known, that an assumption can be fact-checked but a prediction can't be fact-checked. Just because a car is locked does it mean it can't be broken into. Donald Trump statement implies he is suspicious of voter fraud and lacks faith in the governor of California
 
+{% include adunit.html %}
+
 My Verdict: Claim 1 falls flat by poor comprehension.
 
 ## Claim 2 
@@ -36,6 +38,8 @@ Once again twitter mentions that his prediction of how the Governor of Californi
 2. Another [*report*](https://nationalfile.com/video-citizen-busts-democrat-mail-in-voting-scandal/) where the democrats have misused the mail-in ballot campaign to create surrogate mail ballots.
 3. [*NBC new york*](https://www.nbcnewyork.com/news/local/hundreds-of-mail-in-votes-already-set-aside-due-to-paterson-voter-fraud-claims/2414171/) reports of a similar case of voter fraud claims in Paterson.
 
+{% include adunit.html %}
+
 My Verdict: Mailin Voting doesn't seem to be a foolproof idea of voting as claimed by twitter but also the objective of the statement doesn't come in the ambit of a fact check.
 
 ## Claim 3
@@ -43,6 +47,8 @@ My Verdict: Mailin Voting doesn't seem to be a foolproof idea of voting as claim
 This statement seems to be out of context for the tweet from Donald Trump. Just because it is happening in other states it doesn't mean there is no chance of fraud. It just seems to be an addon statement. It is not fraud until someone is caught doing it is what twitter seems to imply.
 
 My Verdict: This claim has very little relation to the context of the tweet and doesn't add value to their fact check.
+
+{% include adunit.html %}
 
 ##Conclusions
 
