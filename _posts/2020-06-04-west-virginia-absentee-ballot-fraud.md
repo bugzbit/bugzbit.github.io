@@ -12,12 +12,8 @@ keywords: Ballot twitter fraud trump verdict voting
 
 Absentee Ballot Fraud: A postal carrier from Charleston, West Virginia has been charged with election fraud. Eight mail-in requests were altered for absentee voter ballots. The Secretary of the state's office found out in an investigation that five of the ballot requests were changed.
 
-President Donald trrump and other elected officials have raised concern about mail-in voter fraud in a recent controversy with twitter over a fact checked tweet. Chuck Callesto ,former candidate for florida's 3rd Congressional district, has called out voters to be concerned of Mailin Voter Fraud irrespective of party lines.
+President Donald Trump and other elected officials have raised concern about mail-in voter fraud in a recent controversy with twitter over a fact-checked tweet. Chuck Callesto, the former candidate for Florida's 3rd Congressional district, has called out voters to be concerned about Mailin Voter Fraud irrespective of party lines.
 
 &lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;BREAKING NOW: A West Virginia postal carrier has been charged with ATTEMPTED ELECTION FRAUD after he admitted to altering party affiliations on mail-in requests for absentee ballots...&lt;br&gt;&lt;br&gt;FRAUD is FRAUD regardless of party.. &lt;br&gt;&lt;br&gt;DO YOU TRUST MAIL IN VOTING?&lt;/p&gt;&amp;mdash; Chuck Callesto (@ChuckCallesto) &lt;a href="https://twitter.com/ChuckCallesto/status/1268352016407056384?ref\_src=twsrc%5Etfw"&gt;June 4, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
-The Attorney general’s office investigator who conducted the probe on behalf of the secretary of state’s office, said in the affidavit that the Pendleton County clerk called some of the voters after receiving the requests because she knew they were not Republicans. The clerk then contacted the secretary of state’s office to report the alterations
-
-&nbsp;
-
-&nbsp;
+The Attorney general’s office investigator who conducted the probe on behalf of the secretary of state’s office said in the affidavit that the Pendleton County clerk called some of the voters after receiving the requests because she knew they were not Republicans. The clerk then contacted the secretary of state’s office to report the alterations
