@@ -2,13 +2,6 @@
 layout: page
 title: Write your Story
 ---
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script>
-   function onSubmit(token) {
-     document.getElementById("demo-form").submit();
-   }
- </script>
-
 
 <p> We would love to see you write on Bugzbit. Write if you have an opinion, information or blog share with us. 
 
@@ -30,9 +23,6 @@ You write we pay. We share 80% of the revenues generated of your article. </p>
 
     <textarea rows="8" class="form-control mb-3" name="message" placeholder="Your Story"></textarea>
     
-    <input class="btn btn-success" class="g-recaptcha" 
-        data-sitekey="6LecwwAVAAAAAPFBpqFUGDEjQR0b4m7nUhSv1Zvr" 
-        data-callback='onSubmit' 
-        data-action='submit' type="submit" value="Send">
+    <input class="btn btn-success" type="submit" value="Send">
 
 </form>
