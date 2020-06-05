@@ -4,9 +4,9 @@ title: 'Scream 5 is here with David Riley, time to scream'
 author:
 categories:
   - Entertainment
-image:
+image: uploads/scream5.jpg
 featured: false
-keywords: "scream David riley sheriff dewey"
+keywords: scream David riley sheriff dewey
 ---
 
 Yes, you'll scream: David Arquette is officially returning as Sheriff Dewey Riley for the fifth installment of the ‘Scream’ slasher film series! David even shared a press release.
