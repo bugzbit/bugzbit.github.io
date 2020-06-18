@@ -4,9 +4,9 @@ title: Why leaving Sugar free drinks can be a good Idea?
 author:
 categories:
   - Health
-image:
+image: uploads/are-sugar-free-carbonated-drinks.jpg
 featured: false
-keywords: "drinks diet calories sweeteners sugar"
+keywords: drinks diet calories sweeteners sugar
 ---
 
 People prefer sugar free/diet drinks so that they can enjoy their favorite drink without consuming a lot of calories. Seems reasonable. Is it? An average 12-ounce can of regular sugar-sweetened beverage delivers approximately 150 calories. The same amount of sugar-free drink delivers zero calories. A person who is health-conscious or trying to lose weight, switching to diet beverages seems like a logical decision. However, various studies have shown that consuming sugar-free drinks can cause adverse effects.
@@ -44,7 +44,6 @@ Due to increased sugar craving people tend to overeat, which leads to weight gai
 **Cancer:**
 
 Some research has noted the link between consuming sugar substitute and cancer risk. However, there is no solid evidence. Other associated risks: There are increasing shreds of evidence that suggest that diet drinks correlate with a wide range of medical conditions including heart conditions (such as heart attack and elevated blood pressure), brain conditions (such as dementia), and liver conditions (non-alcoholic fatty liver disease). Researchers do not understand the exact mechanism behind it; however, some researchers believe that it might damage blood vessels or give rise to chronic inflammation.
-
 
 ## Conclusion
 
