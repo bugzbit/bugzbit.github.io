@@ -6,7 +6,7 @@ categories:
   - Health
 image:
 featured: false
-keywords: scream David riley sheriff dewey
+keywords: "drinks diet calories sweeteners sugar"
 ---
 
 People prefer sugar free/diet drinks so that they can enjoy their favorite drink without consuming a lot of calories. Seems reasonable. Is it? An average 12-ounce can of regular sugar-sweetened beverage delivers approximately 150 calories. The same amount of sugar-free drink delivers zero calories. A person who is health-conscious or trying to lose weight, switching to diet beverages seems like a logical decision. However, various studies have shown that consuming sugar-free drinks can cause adverse effects.
