@@ -24,17 +24,22 @@ Artificial sweeteners or sugar substitutes are chemicals added to food and bever
 
 The human body is very complex. The way our body and mind react to these artificially sweetened drinks is also very complex.
 
-Metabolic syndrome: According to a multi-ethnic study published in April 2009, in the “Diabetes Care” journal, daily intake of diet drinks was associated with a 36% increased risk of metabolic syndrome and 67% more risk of type 2 Diabetes mellitus. The irony is these were the disease which was supposed to be benefitted by sugar substitutes.
+**Metabolic syndrome:**
+According to a multi-ethnic study published in April 2009, in the “Diabetes Care” journal, daily intake of diet drinks was associated with a 36% increased risk of metabolic syndrome and 67% more risk of type 2 Diabetes mellitus. The irony is these were the disease which was supposed to be benefitted by sugar substitutes.
 
 {% include adunit.html %}
 
-**More sugar craving:** People consume sugar-free drinks rather than sugar-sweetened, to decrease calorie intake and lose weight. However, an article published in “Yale journal of biology and medicine” in June 2010 says otherwise. It was observed that natural sweeteners can initiate a reward pathway in the brain, which leads to satiation. While the brain responds differently to artificial sweeteners, leaving you unsatisfied, which in turn can lead to increased appetite, more craving for sugary food.
+**More sugar craving:**
+People consume sugar-free drinks rather than sugar-sweetened, to decrease calorie intake and lose weight. However, an article published in “Yale journal of biology and medicine” in June 2010 says otherwise. It was observed that natural sweeteners can initiate a reward pathway in the brain, which leads to satiation. While the brain responds differently to artificial sweeteners, leaving you unsatisfied, which in turn can lead to increased appetite, more craving for sugary food.
 
 > A study conducted in 2017 suggests a correlation between sugar-free drinks and increased risk of stroke and Alzheimer’s disease.
 
-**Weight gain:** Due to increased sugar craving people tend to overeat, which leads to weight gain. That’s not it, there is more to the story – Overcompensation. When you replace sugar-sweetened drinks with a calorie-free drink, you tend to eat more in other parts of your diet. Fooling yourself by thinking, “I had a diet drink, so I can have one more slice of Pizza.” Ultimately consuming more calories and hence weight gain.
+**Weight gain:**
+Due to increased sugar craving people tend to overeat, which leads to weight gain. That’s not it, there is more to the story – Overcompensation. When you replace sugar-sweetened drinks with a calorie-free drink, you tend to eat more in other parts of your diet. Fooling yourself by thinking, “I had a diet drink, so I can have one more slice of Pizza.” Ultimately consuming more calories and hence weight gain.
 
-**Cancer:** Some research has noted the link between consuming sugar substitute and cancer risk. However, there is no solid evidence. Other associated risks: There are increasing shreds of evidence that suggest that diet drinks correlate with a wide range of medical conditions including heart conditions (such as heart attack and elevated blood pressure), brain conditions (such as dementia), and liver conditions (non-alcoholic fatty liver disease). Researchers do not understand the exact mechanism behind it; however, some researchers believe that it might damage blood vessels or give rise to chronic inflammation.
+**Cancer:**
+Some research has noted the link between consuming sugar substitute and cancer risk. However, there is no solid evidence. Other associated risks: There are increasing shreds of evidence that suggest that diet drinks correlate with a wide range of medical conditions including heart conditions (such as heart attack and elevated blood pressure), brain conditions (such as dementia), and liver conditions (non-alcoholic fatty liver disease). Researchers do not understand the exact mechanism behind it; however, some researchers believe that it might damage blood vessels or give rise to chronic inflammation.
+
 
 ***Conclusion***
 
