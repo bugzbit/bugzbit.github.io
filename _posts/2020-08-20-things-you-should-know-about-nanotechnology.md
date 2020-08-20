@@ -25,7 +25,7 @@ It is said that nanotechnology will bring in the next industrial revolution. Be 
 
 ## Where nanotechnology is applied?
 
-{% include adunit.html %}
+{{% include adunit.html %}}
 
 As shown earlier, Nanotechnology has a lot of applications. Let us take a look into the details of what real-world applications can nanotechnology used for.
 
