@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: 'California: Dead Mother votes in Three different elections'
 author:
 categories:
@@ -17,16 +17,14 @@ Abutin was charged last month with one felony count of fraud and one count of fr
 
 Mail-in voting has become a topic of political discourse before the November presidential election, as President Trump regularly speaks out against it – due to its inefficiencies, and its susceptibility to fraudulently voting schemes, just like the case in California.
 
-<div id="658223831">
-    <script type="text/javascript">
+<div id="658223831"><script type="text/javascript">
         try {
             window._mNHandle.queue.push(function (){
                 window._mNDetails.loadTag("658223831", "300x250", "658223831");
             });
         }
         catch (error) {}
-    </script>
-</div>
+    </script></div>
 
 > “You can’t have millions and many ballots sent everywhere the place, sent to folks that are dead, sent to dogs, cats, sent to everyone. this is often a significant situation, this isn’t games, and you've got to urge it right," said the president.
 
