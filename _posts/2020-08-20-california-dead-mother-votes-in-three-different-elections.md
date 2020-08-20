@@ -4,9 +4,9 @@ title: 'California: Dead Mother votes in Three different elections'
 author:
 categories:
   - News
-image: uploads/images.jpg
+image: /uploads/dead voters.jpg
 featured: false
-keywords: Nanotechnology polymers applications nanoparticles synthesis research
+keywords: Mail in ballot fraud California
 ---
 
 California man ballots on behalf of his dead mother in three different elections caught for mail-in ballot fraud.
