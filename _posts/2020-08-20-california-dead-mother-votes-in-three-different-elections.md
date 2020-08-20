@@ -4,7 +4,7 @@ title: 'California: Dead Mother votes in Three different elections'
 author:
 categories:
   - News
-image:
+image: uploads/images.jpg
 featured: false
 keywords: Nanotechnology polymers applications nanoparticles synthesis research
 ---
