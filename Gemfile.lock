@@ -73,6 +73,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-paginate
   jekyll-seo-tag
+  jekyll-sitemap
 
 RUBY VERSION
    ruby 2.5.1p57
