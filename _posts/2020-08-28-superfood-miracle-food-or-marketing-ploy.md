@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: 'Superfood, Miracle Food or Marketing ploy?'
 author:
 categories:
   - Health
 image: uploads/superfood.jpg
 featured: true
-keywords: "foods vitamins diseases minerals medication antioxidants"
+keywords: foods vitamins diseases minerals medication antioxidants
 ---
 
 Superfood, though there is no definitive nomenclature, these are plant&nbsp; base or types of meat, which are rich in anti-oxdidants , minerals, and Vitamins. Touted as next thing to cure or prevent dangerous ailments such Cancer, Heart Diseases, Diabities and other non likeable ailments.Foods like blueberries, chia seeds, kale, salmon, and nuts have considerable health benefits. Most health practitioners might suggest that a combination of superfood in your diet can have considerable health benefits.
@@ -26,4 +26,5 @@ Superfood, A $130 billion dollar industry , does raise some eyebrows. These are 
 Since there is no definitive authority to confirm whether these food are really as good as they claim they are. The FDA and British Dietic Associated are unwilling to give support to claims of benefits arsing out of these foods.
 
 ## Conclusion
+
 Though there is nutritious value attached to the so called superfoods there is not definitive authority backing it. Is buying these food really worth every extra penny you have?
