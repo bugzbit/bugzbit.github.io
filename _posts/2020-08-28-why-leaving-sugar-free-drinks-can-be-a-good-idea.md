@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Why leaving Sugar free drinks can be a good Idea?
 author:
 categories:
