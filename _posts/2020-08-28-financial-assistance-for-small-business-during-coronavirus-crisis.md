@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Financial assistance for small business during coronavirus crisis
 author:
 categories:
