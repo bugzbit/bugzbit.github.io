@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Google Duo moves to group calls taking on Zoom
 author:
 categories:
