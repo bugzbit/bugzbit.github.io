@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Shut down of Instagram Lite
 author:
 categories:
