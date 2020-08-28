@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Things you should know about Nanotechnology
 author:
 categories:
