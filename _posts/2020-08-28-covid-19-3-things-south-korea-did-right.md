@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: 'Covid-19: 3 things South Korea did right'
 author:
 categories:
