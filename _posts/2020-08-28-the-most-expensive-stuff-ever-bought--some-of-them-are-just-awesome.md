@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: The Most Expensive Stuff ever bought. Some of them are just awesome
 author:
 categories:
   - Entertainment
 image: uploads/expensive watch.jpg
 featured: false
-keywords: "billionaire manhattan shark car"
+keywords: billionaire manhattan shark car
 ---
 
 From Dead Sharks to Golden Cars, here are some of the most expensive stuff ever bought. Some of them are just unbelievable
@@ -35,7 +35,7 @@ English Artist Damien Hirst the ' The Physical Impossibility of Death in the Min
 
 \*\*4. The Card Players : $275&nbsp; Million \*\*
 
-The Card Players is a series of oil paintings by the French Post-Impressionist artist Paul C&eacute;zanne. One version of The Card Players was sold in 2011 to the Royal Family of Qatar for almost $300 million, making it the second most expensive work of art ever sold (after Interchange by Willem de Kooning).
+The Card Players is a series of oil paintings by the French Post-Impressionist artist Paul Cézanne. One version of The Card Players was sold in 2011 to the Royal Family of Qatar for almost $300 million, making it the second most expensive work of art ever sold (after Interchange by Willem de Kooning).
 
 ![](/uploads/the-card-players.jpeg){: width="650" height="444"}
 
