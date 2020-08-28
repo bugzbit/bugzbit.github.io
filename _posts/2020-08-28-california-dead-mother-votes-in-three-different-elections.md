@@ -32,4 +32,4 @@ Virginia recently sent half a million incorrect ballot applications to residents
 
 In the past few weeks, Democratic leaders in Washington have pivoted the narrative to accuse the president of attempting to "manipulate the mail to deny eligible voters access to the ballot in pursuit of his re-election," consistent with a press release from Speaker Pelosi, legislator Schumer, and several other high-ranking Dems.
 
-The official, Louis DeJoy, has agreed to suspend any changes being applied to US mail until after the election. He also will testify before a House oversight committee next week.
+The official, Louis DeJoy, has agreed to suspend any changes being applied to US mail until after the election.&nbsp; He also will testify before a House oversight committee next week.
