@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: IoT and its implication on Project Management
 author:
 categories:
   - Technology
 image: uploads/ProjectioT.jpg
-keywords: "data projects devices communication managers IoT budgeting"
+keywords: data projects devices communication managers IoT budgeting
 featured: true
 ---
 
