@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: Kate Winslet to Star in upcoming Avatar Sequel
 author:
 categories:
@@ -11,8 +11,7 @@ featured: false
 
 An underwater performance capture was the released by the team of Avatar&nbsp; Jon Landau on twitter today. The image featured the stars of the Zoe Saldana , Sam Worthington, Cliff Curtis and Kate Winslet.
 
-> From the set of the sequels: [@ZoeSaldana](https://twitter.com/zoesaldana?ref_src=twsrc%5Etfw), Sam Worthington, Kate Winslet, and Cliff Curtis taking a break from underwater performance capture for a quick photo\!<br><br>Fun fact: Much of the performance capture took place in this 900,000 gallon tank, built specifically for the sequels. [pic.twitter.com/NSfqoZ6jXJ](https://t.co/NSfqoZ6jXJ)
-> — Avatar (@officialavatar) [May 13, 2020](https://twitter.com/officialavatar/status/1260604924095651840?ref_src=twsrc%5Etfw)
+> From the set of the sequels: [@ZoeSaldana](https://twitter.com/zoesaldana?ref_src=twsrc%5Etfw), Sam Worthington, Kate Winslet, and Cliff Curtis taking a break from underwater performance capture for a quick photo\!<br><br>Fun fact: Much of the performance capture took place in this 900,000 gallon tank, built specifically for the sequels. [pic.twitter.com/NSfqoZ6jXJ](https://t.co/NSfqoZ6jXJ) — Avatar (@officialavatar) [May 13, 2020](https://twitter.com/officialavatar/status/1260604924095651840?ref_src=twsrc%5Etfw)
 {: .twitter-tweet}
 
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
