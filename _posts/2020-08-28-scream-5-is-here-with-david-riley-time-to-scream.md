@@ -15,6 +15,8 @@ The sheriff’s back in town\! David Arquette, 48, will reprise the role of Sher
 
 David has starred altogether four of the Scream films (1996, 1997, 2000, and 2011), but it's been nearly a decade since the last sequel. Not many other details are often teased, but Spyglass “says that talks are underway to bring back more legacy cast members,” consistent with Deadline. one among these cast members in fact includes Neve Campbell, who played the leading role of Sidney Prescott in every Scream installment.
 
+<a target="_blank" href="https://www.amazon.com/b?node=21381569011&_encoding=UTF8&linkCode=ib1&tag=bugzbitus-20&linkId=414e5fd949c94888b63cd2fda3f25b9d&ref_=ihub_curatedcontent_92915e01-aa35-4a69-b939-8833d0d8967d">Digital Learning Materials Best Sellers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=bugzbitus-20&l=ib1&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 “They’ve come to me and we’re having conversations,” Neve revealed to YouTube host Jake Hamilton in an interview shared on May 6. Of course, plans can’t exactly be solidified amid a pandemic.
 
 > Neve added, “It’s a touch hard at the instant due to COVID to understand when that’ll happen and hopefully we will see eye to eye on all the weather that need to inherit place for it to happen.”
