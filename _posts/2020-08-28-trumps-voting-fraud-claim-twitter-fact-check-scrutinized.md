@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: 'Trumps Voting Fraud Claim: Twitter fact check scrutinized'
 author:
 categories:
@@ -12,8 +12,7 @@ keywords: Ballot twitter fraud trump verdict voting
 
 Earlier today, I just noticed Donald Trump's Twitter timeline with the fact check feature introduced by twitter. Here is the actual tweet.
 
-> There is NO WAY (ZERO\!) that Mail-In Ballots will be anything less than substantially fraudulent. Mail boxes will be robbed, ballots will be forged & even illegally printed out & fraudulently signed. The Governor of California is sending Ballots to millions of people, anyone.....
-> — Donald J. Trump (@realDonaldTrump) [May 26, 2020](https://twitter.com/realDonaldTrump/status/1265255835124539392?ref_src=twsrc%5Etfw)
+> There is NO WAY (ZERO\!) that Mail-In Ballots will be anything less than substantially fraudulent. Mail boxes will be robbed, ballots will be forged & even illegally printed out & fraudulently signed. The Governor of California is sending Ballots to millions of people, anyone….. — Donald J. Trump (@realDonaldTrump) [May 26, 2020](https://twitter.com/realDonaldTrump/status/1265255835124539392?ref_src=twsrc%5Etfw)
 {: .twitter-tweet}
 
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
