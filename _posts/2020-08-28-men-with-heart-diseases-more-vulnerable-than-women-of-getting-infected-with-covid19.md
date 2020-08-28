@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title: >-
   Men with Heart diseases more vulnerable than women of getting infected with
   Covid19
@@ -8,7 +8,7 @@ categories:
   - Health
 image: uploads/covid 19.jpg
 featured: false
-keywords: "infections receptor plasma COVID-19"
+keywords: infections receptor plasma COVID-19
 ---
 
 Research shows that men with heart problems have higher concentration of ACE2 , compared to women, which allows COVID-19 virus to easily infect healthy cells.
